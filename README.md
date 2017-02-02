@@ -1,7 +1,10 @@
 # flatuicolors
 
-> A Vue.js project
-> A Clone of Flat UI Colors (https://flatuicolors.com/)  Built with Vue.js
+> A Vue.js project.
+> A Clone of Flat UI Colors https://flatuicolors.com
+
+## Demo
+http://vuejs-flat-ui-colors.tedgeving.com/
 
 ## Build Setup
 
