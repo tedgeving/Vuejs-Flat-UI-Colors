@@ -1,4 +1,4 @@
-# flatuicolors
+# Vuejs-Flat-UI-Colors
 
 > A Vue.js project.
 > A Clone of Flat UI Colors https://flatuicolors.com
